@@ -9,8 +9,8 @@ function App() {
 
   const expressionToEmoji = {
     happy: "😄",
-    sad: "😢",
-    angry: "😠",
+    sad: "🙁",
+    angry: "😡",
     surprised: "😮",
     disgusted: "🤢",
     fearful: "😨",
